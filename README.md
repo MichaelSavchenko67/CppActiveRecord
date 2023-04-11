@@ -1,2 +1,1 @@
-# CppActiveRecord
-cpp-active-record ARMv5
+# cpp-active-record ARMv5
